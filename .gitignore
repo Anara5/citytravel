@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# local env files
+.env*.local
+.env
+
+# nginx default file
+.conf
