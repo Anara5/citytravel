@@ -40,7 +40,7 @@ app.use(session({
 }));
 
 app.get("/api/v1", (req, res) => {
-    res.send("<h2>Anarik rulit!!!</h2>");
+    res.send("<h2>Anarik rulit</h2>");
     console.log("it works");
 });
 
