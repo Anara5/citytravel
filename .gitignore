@@ -3,4 +3,4 @@
 
 # Docker
 Dockerfile
-docker-compose*
+docker-compose.dev*
